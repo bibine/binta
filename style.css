@@ -85,7 +85,7 @@ h1 {
 }
 
 .mole {
-  background: url('rabbit.svg') bottom center no-repeat;
+  background: url('rabbit.png') bottom center no-repeat;
   background-size: 100%;
   position: absolute;
   top: 100%;
